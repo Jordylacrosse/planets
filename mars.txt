@@ -2,3 +2,4 @@ mars
 red
 hot
 dry
+far away
