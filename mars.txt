@@ -3,3 +3,22 @@ red
 hot
 dry
 far away
+
+In R studio, we are in the PROJECT: PLANETS
+From here, we go to file , add new txt.file.
+Make Txt file
+Boom, we get to type whatever we want!
+Alrighty, let's type what we know about planets. 
+
+Mars
+Earth
+Sun
+Stars
+Aliens
+Moons
+Jupiter
+Where boys go to get more stupider
+Saturn
+The death Star
+Jar Jar Binx
+Plot to kill jar jar binx
